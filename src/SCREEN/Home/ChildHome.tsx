@@ -1,5 +1,4 @@
-import { useContext, useState } from "react";
-import { UsingContext } from "../..";
+import { useState } from "react";
 
 function ChildHome() {
   const [count, setcount] = useState(0);
