@@ -1,0 +1,15 @@
+.header-bar{
+    background-color: rgba(0, 0, 0, 0.636);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-bar-one{
+    color: white
+}
+.link{
+    margin: 0px 10px;
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}

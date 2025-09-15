@@ -1,0 +1,19 @@
+.waits{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    background-color: rgba(158, 158, 158, 0.474);
+}
+.display-flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: space-evenly;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.Title-one{
+    text-align: center;
+    color: black;
+}

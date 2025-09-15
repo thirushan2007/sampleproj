@@ -1,0 +1,55 @@
+.flex-box{
+    background-color: rgba(0, 0, 0, 0.636);
+    border-radius: 10px;
+}
+.Product-Box{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    border-radius: 50%;
+    margin: 20px;
+    padding: 20px;
+}
+.Product-sub-title{
+    text-align: center;
+    color: darkgoldenrod;
+}
+button{
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    margin: 0px auto;
+    font-size: 0.8rem;  
+}
+button:hover{
+    cursor: pointer;
+    background-color: white;
+}
+.Product-img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Product-title{
+    text-align: center;
+}
+
+.product-price{
+    text-align: center;
+    
+}
+.oly-img{
+    display: flex;
+    justify-content: center;
+}
+
+.card-img-top{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
